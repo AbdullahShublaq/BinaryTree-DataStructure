@@ -7,7 +7,7 @@ package binarytree;
 
 /**
  *
- * @author Mohammed El-Agha
+ * @author Abdullah Shublaq
  */
 public class BinaryTreeNode<E> {
     private BinaryTreeNode<E> parent = null;
