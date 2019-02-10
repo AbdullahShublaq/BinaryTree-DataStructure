@@ -7,7 +7,7 @@ package binarytree;
 
 /**
  *
- * @author Mohammed El-Agha
+ * @author Abdullah Shublaq
  */
 public class Main {
     public static void main(String[] args) {
